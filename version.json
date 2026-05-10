@@ -1,0 +1,7 @@
+{
+  "latest_version": "Alpha 4.0.9.2",
+  "released_at": "2026-05-10",
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v4.0.9.2/Marosa-Magic-Tool-Alpha-4.0.9.2-CLEAN-2026-05-10.zip",
+  "sha256": "53d917e4fe7cc85f89ba7a901afbf4d7ddebf323948f9e38152416b67850c8aa",
+  "release_notes": "File Comparison output redesign:\n- lines_<sheet> tab per common sheet, IDENTICAL or not\n- Each row marked MATCH / DIFF / ONLY in A / ONLY in B\n- PER-SHEET ROW IDENTITY block in 00_Verdict_Summary\n- Identical / Differing / Only A / Only B columns in 01_Sheet_Map\n- Frozen header + AutoFilter on every breakdown tab\n314 tests + 4 skipped."
+}

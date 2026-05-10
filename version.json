@@ -1,7 +1,7 @@
 {
-  "latest_version": "Alpha 4.0.9.3",
+  "latest_version": "Alpha 4.0.9.6",
   "released_at": "2026-05-10",
-  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v4.0.9.3/Marosa-Magic-Tool-Alpha-4.0.9.3-CLEAN-2026-05-10.zip",
-  "sha256": "7c78f446c318723afa5dde733c6efcaeade478bb2440885aea33ef9aadb148de",
-  "release_notes": "Updater fix: swap-on-launch logic moved into marosa_magic.py so updates apply correctly when launching python directly (not just via run.cmd). Plus the 4.0.9.2 File Comparison redesign carried over: lines_<sheet> tab per common sheet always emitted, per-row MATCH/DIFF/ONLY markers, PER-SHEET ROW IDENTITY block, expanded Sheet_Map columns. 314 tests + 4 skipped."
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v4.0.9.6/Marosa-Magic-Tool-Alpha-4.0.9.6-CLEAN-2026-05-10.zip",
+  "sha256": "c156499dfbe13819d7407aeafdf1e2c455a071623cea693e8f605191294d59b2",
+  "release_notes": "First automatic update 10/0/2026 -  18.14"
 }

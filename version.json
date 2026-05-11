@@ -1,7 +1,7 @@
 {
-  "latest_version": "Alpha 4.0.9.8",
+  "latest_version": "Alpha 4.0.10.12",
   "released_at": "2026-05-10",
-  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v4.0.9.8/Marosa-Magic-Tool-Alpha-4.0.9.8-CLEAN-2026-05-10.zip",
-  "sha256": "00dc6ae4063a9414996906939adc24a19e3e24053ed3a8cb092ae454417b3714",
-  "release_notes": "New Patch"
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v4.0.10.12/Marosa-Magic-Tool-Alpha-4.0.10.12-CLEAN-2026-05-10.zip",
+  "sha256": "0ca2dbf116aae7e9549811363037c1b48c2c320e948cd709442a8d22b832e9af",
+  "release_notes": "Alpha 4.0.10.12 - 2026-05-10 - Lista compacta de checks dentro\nde cada macro card.\n\nAntes cada check ocupaba 3 lineas con padding alrededor.  Ahora:\n- Cabecera navy \"Code | Check description\" (estilo tabla)\n- Una linea de 18 px por cada check (codigo + descripcion)\n- Filas alternas (cream / panel-alt) para legibilidad\n- Font 8 px (era 9), padding minimo\n- Resultado: la lista de 10+ checks ahora cabe en ~200 px en\nvez de los ~600 px anteriores."
 }

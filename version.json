@@ -1,7 +1,7 @@
 {
-  "latest_version": "Alpha 5.0.70",
+  "latest_version": "Alpha 5.0.73",
   "released_at": "2026-05-15",
-  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.0.70/Marosa-Magic-Tool-Alpha-5.0.70-CLEAN-2026-05-15.zip",
-  "sha256": "bfb6b3045f1614cef4546b103f9bf49a0a91640c989719b5d7ccfaebb22692d3",
-  "release_notes": "Alpha 5.0 - 2026-05-15 - HOTFIX: top-level launcher .cmd\nsilently flashed open + closed.\n\nBIGGEST RELEASE EVER!\n\n==============================================================="
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.0.73/Marosa-Magic-Tool-Alpha-5.0.73-CLEAN-2026-05-15.zip",
+  "sha256": "66784fee6b9f29ffb2d6faaeedb4160dfb02e038cde167d31282c64404bbbd84",
+  "release_notes": "Alpha 5.0.73 - 2026-05-15 - Publish of the biggest update ever (2)."
 }

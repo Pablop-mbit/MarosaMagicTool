@@ -1,7 +1,7 @@
 {
-  "latest_version": "Alpha 5.1.21",
+  "latest_version": "Alpha 5.2.0",
   "released_at": "2026-05-18",
-  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.1.21/Marosa-Magic-Tool-Alpha-5.1.21-CLEAN-2026-05-18.zip",
-  "sha256": "512f0faef76c057a9df8b8d90ffa846a4dba697e8e6ac536ea79a55682bf7f05",
-  "release_notes": "Alpha 5.1.21 - 2026-05-18 - Greece country aliasing: EL <-> GR are the same country.\n81_qt_5_1_21_greece_country_aliasing.py\n(4 tests)."
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.2.0/Marosa-Magic-Tool-Alpha-5.2.0-CLEAN-2026-05-18.zip",
+  "sha256": "74519dfa699f0f36e188406d829d57f094584cb88bd2d9c142e238af6ef0ab56",
+  "release_notes": "# Alpha 5.2.0 - 2026-05-18 - Industrial-strength SAP header normalisation.\n\n- drops Cc / Cs / Co / Cn / Zl / Zp categories\n- drops Cf word-joiners (ZWJ U+200D, ZWNJ U+200C, SHY U+00AD)\n- BUT promotes Cf soft separators (ZWSP U+200B, BOM U+FEFF)\n- tab character treated as space\n- every Zs (ASCII space, NBSP, EM-space, ideographic, ...)\n- runs collapsed; outer stripped\n- 56 parametrised cases covering every Unicode noise pattern\n- col-map indexability via cleaned literal\n- End-to-end PL file smoke"
 }

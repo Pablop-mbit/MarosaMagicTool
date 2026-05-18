@@ -1,7 +1,7 @@
 {
-  "latest_version": "Alpha 5.2.5",
+  "latest_version": "Alpha 5.3.0",
   "released_at": "2026-05-18",
-  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.2.5/Marosa-Magic-Tool-Alpha-5.2.5-CLEAN-2026-05-18.zip",
-  "sha256": "7a2cd06ed1f7fbe58e6423e51ab4ee6067ee0fb8e88da7b87a9063ac04357065",
-  "release_notes": "# Alpha 5.2.5 - 2026-05-18 - \"No real restart\" after update fix.\n\n- any Python error in ``_apply_pending_update`` or in\n- the ``pause >nul`` at the end of ``run_qt.cmd`` waited\n- ``_relaunch_after_update`` swaps the creation flags\n- ``marosa_qt.py.main()`` now calls a defensive"
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.3.0/Marosa-Magic-Tool-Alpha-5.3.0-CLEAN-2026-05-18.zip",
+  "sha256": "4a68deaa70c93b81903db4922f09ac0c35f93e48abf1daf91b55ca072423b8ee",
+  "release_notes": "# Alpha 5.3.0 - 2026-05-18 - CH (Switzerland) file fixes:\n\n- The CH UTF-16 SAP export wraps Balance-section amounts\n- The CH INPUT section literally contains 4,478 rows with\n- The 5.2.6 cross-Trs fallback was too permissive: any\n- ``transformer.transform`` ROUTES BY ``Trs``, not by SAP\n- ``transformer.transform`` expands ``sap_vat_cols`` to\n- ``vatify_writer._clean_sap_raw_cell`` strips the literal\n- ``Masterdata.lookup`` cross-Trs fallback (5.2.6) is"
 }

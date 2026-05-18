@@ -1,7 +1,7 @@
 {
-  "latest_version": "Alpha 5.2.0",
+  "latest_version": "Alpha 5.2.1",
   "released_at": "2026-05-18",
-  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.2.0/Marosa-Magic-Tool-Alpha-5.2.0-CLEAN-2026-05-18.zip",
-  "sha256": "74519dfa699f0f36e188406d829d57f094584cb88bd2d9c142e238af6ef0ab56",
-  "release_notes": "# Alpha 5.2.0 - 2026-05-18 - Industrial-strength SAP header normalisation.\n\n- drops Cc / Cs / Co / Cn / Zl / Zp categories\n- drops Cf word-joiners (ZWJ U+200D, ZWNJ U+200C, SHY U+00AD)\n- BUT promotes Cf soft separators (ZWSP U+200B, BOM U+FEFF)\n- tab character treated as space\n- every Zs (ASCII space, NBSP, EM-space, ideographic, ...)\n- runs collapsed; outer stripped\n- 56 parametrised cases covering every Unicode noise pattern\n- col-map indexability via cleaned literal\n- End-to-end PL file smoke"
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.2.1/Marosa-Magic-Tool-Alpha-5.2.1-CLEAN-2026-05-18.zip",
+  "sha256": "2a45d2f4c7fa9196cd9c8761f4b38fac49c86f3d955c7bd6d3a6d8773c8df711",
+  "release_notes": "# Alpha 5.2.1 - 2026-05-18 - Greek-file crash safety (widget\n\n- ``src/qt_app/widgets/drop_overlay.py:140 eventFilter``\n- ``src/qt_app/dialogs/options_dialog.py:506 _on_check_clicked``\n- Bare ``launch_qt_app`` (Qt event loop crash; no Python\n- 6 source-level pins\n- capture-before-accept order in both options-dialog\n- try/except RuntimeError in DropOverlay.eventFilter +\n- count of installEventFilter(self) sites in qt_app/ stays"
 }

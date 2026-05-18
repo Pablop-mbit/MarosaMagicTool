@@ -1,7 +1,7 @@
 {
-  "latest_version": "Alpha 5.2.1",
+  "latest_version": "Alpha 5.2.2",
   "released_at": "2026-05-18",
-  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.2.1/Marosa-Magic-Tool-Alpha-5.2.1-CLEAN-2026-05-18.zip",
-  "sha256": "2a45d2f4c7fa9196cd9c8761f4b38fac49c86f3d955c7bd6d3a6d8773c8df711",
-  "release_notes": "# Alpha 5.2.1 - 2026-05-18 - Greek-file crash safety (widget\n\n- ``src/qt_app/widgets/drop_overlay.py:140 eventFilter``\n- ``src/qt_app/dialogs/options_dialog.py:506 _on_check_clicked``\n- Bare ``launch_qt_app`` (Qt event loop crash; no Python\n- 6 source-level pins\n- capture-before-accept order in both options-dialog\n- try/except RuntimeError in DropOverlay.eventFilter +\n- count of installEventFilter(self) sites in qt_app/ stays"
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.2.2/Marosa-Magic-Tool-Alpha-5.2.2-CLEAN-2026-05-18.zip",
+  "sha256": "2cc675e39ba1aee3be3136e830dba914b0a566d80561a1b563b8dd1b3b53e514",
+  "release_notes": "# Alpha 5.2.2 - 2026-05-18 - Update-available discovery layer\n\n- A 1500 ms-deferred startup ping (after the window has\n- A yellow ⬆ chip next to the OPTIONS button in the header\n- One-click flow: chip -> Delta Patcher opens with the"
 }

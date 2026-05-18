@@ -1,7 +1,7 @@
 {
-  "latest_version": "Alpha 5.2.2",
+  "latest_version": "Alpha 5.2.5",
   "released_at": "2026-05-18",
-  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.2.2/Marosa-Magic-Tool-Alpha-5.2.2-CLEAN-2026-05-18.zip",
-  "sha256": "2cc675e39ba1aee3be3136e830dba914b0a566d80561a1b563b8dd1b3b53e514",
-  "release_notes": "# Alpha 5.2.2 - 2026-05-18 - Update-available discovery layer\n\n- A 1500 ms-deferred startup ping (after the window has\n- A yellow ⬆ chip next to the OPTIONS button in the header\n- One-click flow: chip -> Delta Patcher opens with the"
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.2.5/Marosa-Magic-Tool-Alpha-5.2.5-CLEAN-2026-05-18.zip",
+  "sha256": "7a2cd06ed1f7fbe58e6423e51ab4ee6067ee0fb8e88da7b87a9063ac04357065",
+  "release_notes": "# Alpha 5.2.5 - 2026-05-18 - \"No real restart\" after update fix.\n\n- any Python error in ``_apply_pending_update`` or in\n- the ``pause >nul`` at the end of ``run_qt.cmd`` waited\n- ``_relaunch_after_update`` swaps the creation flags\n- ``marosa_qt.py.main()`` now calls a defensive"
 }

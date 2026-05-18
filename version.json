@@ -1,7 +1,7 @@
 {
-  "latest_version": "Alpha 5.1.16",
+  "latest_version": "Alpha 5.1.21",
   "released_at": "2026-05-18",
-  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.1.16/Marosa-Magic-Tool-Alpha-5.1.16-CLEAN-2026-05-18.zip",
-  "sha256": "bc7bc80a16d86f6dcc97c9216fd8e18d5619fa1daafe285e14ac38c7549145da",
-  "release_notes": "Alpha 5.1.16 - 2026-05-18 - Live breadcrumbs + heartbeat: WHAT, not just WHEN.\n\n"
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.1.21/Marosa-Magic-Tool-Alpha-5.1.21-CLEAN-2026-05-18.zip",
+  "sha256": "512f0faef76c057a9df8b8d90ffa846a4dba697e8e6ac536ea79a55682bf7f05",
+  "release_notes": "Alpha 5.1.21 - 2026-05-18 - Greece country aliasing: EL <-> GR are the same country.\n81_qt_5_1_21_greece_country_aliasing.py\n(4 tests)."
 }

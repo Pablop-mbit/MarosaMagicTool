@@ -1,7 +1,7 @@
 {
-  "latest_version": "Alpha 5.1.13",
+  "latest_version": "Alpha 5.1.16",
   "released_at": "2026-05-18",
-  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.1.13/Marosa-Magic-Tool-Alpha-5.1.13-CLEAN-2026-05-18.zip",
-  "sha256": "b61ade693e79856992ba8e6e7df559e8366dbc7e95c697faab2856a29b12ed6e",
-  "release_notes": "Alpha 5.1.13 - 2026-05-18 - Batch resolver: kill the premature auto-cancel.\n"
+  "download_url": "https://github.com/Pablop-mbit/MarosaMagicTool/releases/download/v5.1.16/Marosa-Magic-Tool-Alpha-5.1.16-CLEAN-2026-05-18.zip",
+  "sha256": "bc7bc80a16d86f6dcc97c9216fd8e18d5619fa1daafe285e14ac38c7549145da",
+  "release_notes": "Alpha 5.1.16 - 2026-05-18 - Live breadcrumbs + heartbeat: WHAT, not just WHEN.\n\n"
 }
